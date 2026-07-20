@@ -1,6 +1,6 @@
 # 🛒 Croma Clone
 
-🚀 **Live Demo:** Click Here
+🚀 **Live Demo:** [Click Here](https://backend-practice-tan-six.vercel.app/)
 
 A full-stack e-commerce web application inspired by **Croma**, built using the **MERN Stack**. Users can browse electronic products, search and filter items, manage their shopping cart, make secure payments with Razorpay, and place orders. It also includes an admin panel for managing products.
 
